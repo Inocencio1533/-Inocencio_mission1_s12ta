@@ -10,6 +10,3 @@ class  ConversorMedidas:
         valor_cm = valor_m * 100
         return valor_cm
     
-
-    resultado = ConversorMedidas= converter_m_para_cm(1)
-    print('Resultado:', resultado)
